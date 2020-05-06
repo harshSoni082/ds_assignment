@@ -1,0 +1,5 @@
+*.out
+.DS_Store
+
+assignment_1/*.out
+assignment_1/.DS_Store
